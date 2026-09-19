@@ -1,2 +1,3 @@
 # launch-console
-# here's an example edit. done on September 19th, 2026 at 5:27 p.m.
+## Day 1 at QuestForge
+I'm excited for this term, and want to learn the ins and outs of GitHub as the term progresses.
